@@ -1,4 +1,4 @@
-#Amazon clone
+# Amazon clone
 
 Deploy live on Firebase!
 https://amzn-clone-8f214.web.app/
