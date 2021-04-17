@@ -1,0 +1,88 @@
+.header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  min-width: 1000px;
+  background-color: #131921;
+  z-index: 10;
+}
+
+.header__logo {
+  object-fit: contain;
+  margin: 5px 5px 0 10px;
+  height: 50px;
+  width: 100px;
+}
+
+.header__search {
+  display: flex;
+  flex: 1;
+  padding: 5px;
+}
+
+.header__searchInput {
+  height: 18px;
+  width: 100%;
+  padding: 12px;
+  border-radius: 5px 0 0 5px;
+  border: none;
+}
+
+.header__searchIcon {
+  height: 32px !important;
+  padding: 5px 8px;
+  border-radius: 0 5px 5px 0;
+  background-color: #fdbd69;
+  color: #333;
+  cursor: pointer;
+}
+
+.header__searchIcon:hover {
+  background-color: #fba83a;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.header__link {
+  text-decoration: none;
+  color: white;
+  margin: 5px 0;
+}
+
+.header__option {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+}
+
+.header__optionLineOne {
+  font-size: 12px;
+}
+
+.header__optionLineTwo {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.header__optionCart {
+  display: flex;
+  align-items: center;
+  padding: 7px 5px;
+}
+
+.header__cart {
+  color: white;
+}
+
+.header__cartCount {
+  font-size: 20px;
+  font-weight: 700;
+  margin-right: 5px;
+  color: rgb(236, 155, 4);
+}
