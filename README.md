@@ -1,6 +1,7 @@
 # Amazon clone
 
-Deploy live on Firebase!
+Deploy live with Firebase!
+
 https://amzn-clone-8f214.web.app/
 
 ![React App and 4 more pages - Personal - Microsoft​ Edge 4_17_2021 12_39_11 PM (3)](https://user-images.githubusercontent.com/78442208/115129269-3270d480-9f99-11eb-9466-1bc9f624ca87.png)
